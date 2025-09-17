@@ -1,4 +1,4 @@
-# ✨ HTML Showcase
+# ✨ HTML Showcase (ESP)
 
 ¡Hola! 👋  
 Acá vas a encontrar mis pequeños experimentos en HTML. Algunos los hice practicando, otros para divertirme y otros hasta me sirvieron en el trabajo.  
@@ -6,7 +6,7 @@ Acá vas a encontrar mis pequeños experimentos en HTML. Algunos los hice practi
 No se trata de ser perfecto, sino de aprender y disfrutar el proceso.
 Explorá con confianza y usá lo que más te guste. 🌼
 
-# ✨ HTML Showcase
+# ✨ HTML Showcase (ENG)
 
 Hi there! 👋  
 This is my little corner for HTML projects — some practice, some fun, and some even work-related.  
